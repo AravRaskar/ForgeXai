@@ -1,0 +1,34 @@
+# Dependencies
+node_modules/
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+env/
+
+# Environment
+.env
+.env.local
+
+# Uploads & data
+backend/uploads/*
+!backend/uploads/.gitkeep
+*.db
+backend/data/
+
+# Build
+frontend/dist/
+*.log
+
+# IDE
+.idea/
+.vscode/
+*.swp
+
+# OS
+.DS_Store
+Thumbs.db
+
+# ML weights (optional local)
+backend/models/weights/*
+!backend/models/weights/.gitkeep
