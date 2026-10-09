@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # AI-Powered Document Classification and Forgery Detection for Banking Documents
 
 Full-stack academic prototype: React (Vite) + FastAPI + SQLite + OpenCV + Tesseract OCR + ELA/metadata forgery heuristics.
@@ -90,3 +91,6 @@ Without weights, the app uses **clearly labelled demo/heuristic** classification
 ## License
 
 Academic project — adjust as required by your institution.
+=======
+# ForgeXai
+>>>>>>> 2057c75d728b85a83c1230cad2ed4a0ae83fc806
